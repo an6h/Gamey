@@ -15,8 +15,8 @@ goto :Config
 :Boost
 call :PowerPlan
 call :Processes
-::call :Services
-call :Explorer
+:: call :Services
+:: call :Explorer
 call :GamePriority
 goto :eof
 
