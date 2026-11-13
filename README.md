@@ -243,7 +243,7 @@ call :ClearRam
 To disable RAM cleanup:
 
 ```bat
-::call :ClearRam
+:: call :ClearRam
 ```
 
 To enable it again, remove the `::`.
